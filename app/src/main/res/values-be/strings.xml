@@ -22,6 +22,7 @@
     <string name="sort_by_day_and_alarm_time">Дзень і час будзільніка</string>
     <string name="analogue_clock">Аналагавы гадзіннік</string>
     <string name="digital_clock">Лічбавы гадзіннік</string>
+    <string name="vertical_digital_clock">Vertical Digital clock</string>
     <string name="alarm_dismissed">Будзільнік адхілены</string>
     <string name="select_timer_to_dismiss">Select timer to dismiss</string>
     <string name="select_alarm_to_dismiss">Select alarm to dismiss</string>

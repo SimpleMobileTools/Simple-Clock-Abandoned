@@ -22,6 +22,7 @@
     <string name="sort_by_day_and_alarm_time">Giorno e ora sveglia</string>
     <string name="analogue_clock">Orologio analogico</string>
     <string name="digital_clock">Orologio digitale</string>
+    <string name="vertical_digital_clock">Vertical Digital clock</string>
     <string name="alarm_dismissed">Allarme disattivato</string>
     <string name="select_timer_to_dismiss">Seleziona il contaminuti da disattivare</string>
     <string name="select_alarm_to_dismiss">Seleziona l\'allarme da disattivare</string>

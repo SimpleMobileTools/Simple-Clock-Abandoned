@@ -22,6 +22,7 @@
     <string name="sort_by_day_and_alarm_time">Eguna eta alarma-ordua</string>
     <string name="analogue_clock">Erloju analogikoa</string>
     <string name="digital_clock">Erloju digitala</string>
+    <string name="vertical_digital_clock">Vertical Digital clock</string>
     <string name="alarm_dismissed">Alarma baztertu da</string>
     <string name="select_timer_to_dismiss">Hautatu baztertu nahi duzun tenporizadorea</string>
     <string name="select_alarm_to_dismiss">Hautatu baztertu nahi duzun alarma</string>

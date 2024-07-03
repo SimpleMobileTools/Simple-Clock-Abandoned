@@ -22,6 +22,7 @@
     <string name="sort_by_day_and_alarm_time">Dag en tijd</string>
     <string name="analogue_clock">Analoge klok</string>
     <string name="digital_clock">Digitale klok</string>
+    <string name="vertical_digital_clock">Vertical Digital clock</string>
     <string name="alarm_dismissed">Wekker uitgezet</string>
     <string name="select_timer_to_dismiss">Timer uitzetten</string>
     <string name="select_alarm_to_dismiss">Wekker uitzetten</string>

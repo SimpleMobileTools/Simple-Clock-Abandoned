@@ -22,6 +22,7 @@
     <string name="sort_by_day_and_alarm_time">Gün ve Alarm zamanı</string>
     <string name="analogue_clock">Analog saat</string>
     <string name="digital_clock">Dijital saat</string>
+    <string name="vertical_digital_clock">Vertical Digital clock</string>
     <string name="alarm_dismissed">Alarm kapatıldı</string>
     <string name="select_timer_to_dismiss">Kapatılacak zamanlayıcıyı seç</string>
     <string name="select_alarm_to_dismiss">Kapatılacak alarmı seç</string>

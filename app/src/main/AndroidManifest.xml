@@ -132,6 +132,16 @@
         </activity>
 
         <activity
+            android:name=".activities.WidgetVerticalDigitalConfigureActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyWidgetConfigTheme">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+            </intent-filter>
+        </activity>
+
+        <activity
             android:name=".activities.WidgetAnalogueConfigureActivity"
             android:exported="true"
             android:screenOrientation="portrait"
@@ -192,6 +202,21 @@
             <meta-data
                 android:name="android.appwidget.provider"
                 android:resource="@xml/widget_digital_clock_info" />
+        </receiver>
+
+        <receiver
+            android:name=".helpers.MyVerticalDigitalTimeWidgetProvider"
+            android:exported="true"
+            android:label="@string/vertical_digital_clock">
+
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="android.appwidget.action.APPWIDGET_ENABLED" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_vertical_digital_clock_info" />
         </receiver>
 
         <receiver

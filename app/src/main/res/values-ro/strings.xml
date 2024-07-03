@@ -22,6 +22,7 @@
     <string name="sort_by_day_and_alarm_time">Ziua și ora alarmei</string>
     <string name="analogue_clock">Ceas analogic</string>
     <string name="digital_clock">Ceas digital</string>
+    <string name="vertical_digital_clock">Vertical Digital clock</string>
     <string name="alarm_dismissed">Alarmă ignorată</string>
     <string name="select_timer_to_dismiss">Select timer to dismiss</string>
     <string name="select_alarm_to_dismiss">Select alarm to dismiss</string>

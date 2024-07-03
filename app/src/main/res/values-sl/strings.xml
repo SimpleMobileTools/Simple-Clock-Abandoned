@@ -22,6 +22,7 @@
     <string name="sort_by_day_and_alarm_time">Dan in čas budilke</string>
     <string name="analogue_clock">Analogna ura</string>
     <string name="digital_clock">Digitalna ura</string>
+    <string name="vertical_digital_clock">Vertical Digital clock</string>
     <string name="alarm_dismissed">Prekinjen alarm</string>
     <string name="select_timer_to_dismiss">Select timer to dismiss</string>
     <string name="select_alarm_to_dismiss">Select alarm to dismiss</string>

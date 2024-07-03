@@ -22,6 +22,7 @@
     <string name="sort_by_day_and_alarm_time">Dňa a času budíka</string>
     <string name="analogue_clock">Analógové hodiny</string>
     <string name="digital_clock">Digitálne hodiny</string>
+    <string name="vertical_digital_clock">Vertical Digital clock</string>
     <string name="alarm_dismissed">Budík bol zastavený</string>
     <string name="select_timer_to_dismiss">Zvoľte časovač na zrušenie</string>
     <string name="select_alarm_to_dismiss">Zvoľte budík na zrušenie</string>

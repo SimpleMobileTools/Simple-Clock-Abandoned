@@ -22,6 +22,7 @@
     <string name="sort_by_day_and_alarm_time">Dia e hora do alarme</string>
     <string name="analogue_clock">Relógio analógico</string>
     <string name="digital_clock">Relógio digital</string>
+    <string name="vertical_digital_clock">Vertical Digital clock</string>
     <string name="alarm_dismissed">Alarme descartado</string>
     <string name="select_timer_to_dismiss">Selecione o temporizador a descartar</string>
     <string name="select_alarm_to_dismiss">Selecione o alarme a descartar</string>

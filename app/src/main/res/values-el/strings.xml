@@ -22,6 +22,7 @@
     <string name="sort_by_day_and_alarm_time">Ημέρα και ώρα αφύπνισης</string>
     <string name="analogue_clock">Αναλογικό Ρολόι</string>
     <string name="digital_clock">Ψηφιακό Ρολόι</string>
+    <string name="vertical_digital_clock">Vertical Digital clock</string>
     <string name="alarm_dismissed">Η αφύπνιση απορρίφθηκε</string>
     <string name="select_timer_to_dismiss">Επιλέξτε χρονοδιακόπτη για απόρριψη</string>
     <string name="select_alarm_to_dismiss">Επιλέξτε συναγερμό για απόρριψη</string>

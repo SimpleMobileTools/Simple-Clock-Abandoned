@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="use_text_shadow">Use text shadow</string>
+    <string name="sort_by_day_and_alarm_time">Die e hora de alarma</string>
+    <string name="no_timers_found">Necun temporisator trovate</string>
+    <string name="sort_by_alarm_time">Hora de alarma</string>
+    <string name="digital_clock">Horologio digital</string>
+    <string name="stopwatch_tab">Scheda de chronometro</string>
+    <string name="clock_and_date">Horologio e data</string>
+    <string name="select_alarm_to_dismiss">Select alarm to dismiss</string>
+    <string name="increase_volume_gradually">Increase volume gradually</string>
+    <string name="timer_single_notification_label_msg">Timer for %s is running</string>
+    <string name="upcoming_alarm">Upcoming alarm</string>
+    <string name="no_days_selected">Necun dies seligite</string>
+    <string name="alarm_created">Alarma create</string>
+    <string name="lap">Lap</string>
+    <string name="faq_1_text">Just click on any of the columns, that will make the laps be sorted by the given column. With additional clicks you can toggle between ascending and descending sorting.</string>
+    <string name="time_expired">Time expired</string>
+    <string name="alarm_dismissed">Alarm dismissed</string>
+    <string name="app_launcher_name">Horologio</string>
+    <string name="no_alarms_found">Necun alarma trovate</string>
+    <string name="stopwatch_stopped">Le chronometro esseva stoppate</string>
+    <string name="clock">Horologio</string>
+    <string name="alarm_tab">Scheda de alarma</string>
+    <string name="clock_tab">Scheda de horologio</string>
+    <string name="stopwatch">Chronometro</string>
+    <string name="vibrate">Vibrar</string>
+    <string name="time_zone">Fuso horari</string>
+    <plurals name="timer_notification_msg">
+        <item quantity="one">%d timer is running</item>
+        <item quantity="other">%d timers are running</item>
+    </plurals>
+    <string name="timers_notification_msg">Timers are running</string>
+    <string name="timer">Temporisator</string>
+    <string name="select_timer_to_dismiss">Select timer to dismiss</string>
+    <string name="swipe_right_to_dismiss">Swipe right to Dismiss, or left to Snooze.</string>
+    <string name="faq_1_title">How can I change lap sorting at the stopwatch tab?</string>
+    <string name="timer_tab">Scheda de temporisator</string>
+    <string name="sort_by_creation_order">Creation order</string>
+    <string name="add_timer">Adder temporisator</string>
+    <string name="show_seconds">Monstrar le secundas</string>
+    <string name="alarm_snoozed">Alarm snoozed by %s</string>
+    <string name="new_timer">Nove temporisator</string>
+    <string name="early_alarm_dismissal">Early alarm dismissal</string>
+    <string name="app_name">Horologio Simple</string>
+    <string name="add_alarm">Adder alarma</string>
+    <string name="max_reminder_duration">Max reminder duration</string>
+    <string name="start_stopwatch">Initiar le chronometro</string>
+    <string name="analogue_clock">Horologio analogic</string>
+    <string name="timer_stopped">Le temporisator esseva stoppate</string>
+</resources>
